@@ -1,0 +1,9 @@
+fastapi==0.111.0
+motor==3.2.0
+passlib==1.7.4
+pydantic==2.7.3
+PyJWT==1.7.1
+pymongo==4.7.2
+python-decouple==3.8
+python_bcrypt==0.3.2
+uvicorn==0.30.1
