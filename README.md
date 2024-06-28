@@ -1,5 +1,2 @@
-# async-fastapi-mongo
-
-Repository housing code for the Testdriven article.
-
-[https://testdriven.io/blog/fastapi-mongo/](https://testdriven.io/blog/fastapi-mongo/)
+# API-SM
+API created in Python for a mobile application developed in Kotlin; the entire project was completed for a Master's course.
